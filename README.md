@@ -5,7 +5,6 @@
 
 ### Libraries
 
-* [React Forms](http://facebook.github.io/react/docs/forms.html)
 * [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
 * [wingspan-forms - A dynamic form library for Facebook React](https://github.com/wingspan/wingspan-forms)
 * [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
