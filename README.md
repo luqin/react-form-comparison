@@ -41,6 +41,8 @@
 
 [![rc-form-validation](https://nodei.co/npm/rc-form-validation.png?downloads=true)](https://npmjs.org/package/rc-form-validation)
 
-* [Subschema - Reactjs forms based on schema](https://github.com/jspears/subschema) [Examples](http://jspears.github.io/subschema)
+* [Subschema - Reactjs forms based on schema](https://github.com/jspears/subschema)
+
+[Examples](http://jspears.github.io/subschema)
 
 [![NPM](https://nodei.co/npm/subschema.png?downloads=true&stars=true)](https://nodei.co/npm/subschema/)
