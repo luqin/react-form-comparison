@@ -1,4 +1,4 @@
-# react form Comparison by Example
+# React form Comparison by Example
 > Similar app implemented with different react form solutions
 
 ## Resources
