@@ -46,3 +46,5 @@
 [Examples](http://jspears.github.io/subschema)
 
 [![NPM](https://nodei.co/npm/subschema.png?downloads=true&stars=true)](https://nodei.co/npm/subschema/)
+
+* [redux-form - A Higher Order Component using react-redux to keep form state in a Redux store](https://github.com/erikras/redux-form)
