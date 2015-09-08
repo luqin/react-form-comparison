@@ -17,6 +17,10 @@
 
 [![NPM](https://nodei.co/npm/newforms.png?downloads=true&stars=true)](https://nodei.co/npm/newforms/)
 
+* [redux-form - A Higher Order Component using react-redux to keep form state in a Redux store](https://github.com/erikras/redux-form)
+
+[![NPM](https://nodei.co/npm/redux-form.png?downloads=true&stars=true)](https://nodei.co/npm/redux-form/)
+
 * [wingspan-forms - A dynamic form library for Facebook React](https://github.com/wingspan/wingspan-forms)
 
 [![NPM](https://nodei.co/npm/wingspan-forms.png?downloads=true&stars=true)](https://nodei.co/npm/wingspan-forms)
