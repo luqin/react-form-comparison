@@ -5,9 +5,13 @@
 
 ### Libraries
 
-* [tcomb-form - UI library for developing forms writing less code](https://gcanti.github.io/tcomb-form)
+* [tcomb-form - UI library for developing forms writing less code](https://github.com/gcanti/tcomb-form)
 
 [![NPM](https://nodei.co/npm/tcomb-form.png?downloads=true&stars=true)](https://nodei.co/npm/tcomb-form/)
+
+* [tcomb-form-native - Forms library for react-native](https://github.com/gcanti/tcomb-form-native)
+
+[![NPM](https://nodei.co/npm/tcomb-form-native.png?downloads=true&stars=true)](https://nodei.co/npm/tcomb-form-native/)
 
 * [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
 
