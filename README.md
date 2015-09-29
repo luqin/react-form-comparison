@@ -7,8 +7,7 @@
 
 * [tcomb-form - UI library for developing forms writing less code](https://github.com/gcanti/tcomb-form)
 
-[![NPM][http://badge.fury.io/js/tcomb-form.svg]][http://badge.fury.io/js/tcomb-form]
-[![NPM](https://nodei.co/npm/tcomb-form.png?downloads=true&stars=true)](https://nodei.co/npm/tcomb-form/)
+[![NPM](http://badge.fury.io/js/tcomb-form.svg)](http://badge.fury.io/js/tcomb-form)
 [![NPM](https://img.shields.io/npm/dm/tcomb-form.svg?style=flat-square)](https://github.com/gcanti/tcomb-form)
 [![github](https://img.shields.io/github/issues/gcanti/tcomb-form.svg?style=flat-square)](https://github.com/gcanti/tcomb-form)
 [![github](https://img.shields.io/github/stars/gcanti/tcomb-form.svg?style=flat-square)](https://github.com/gcanti/tcomb-form)
@@ -16,7 +15,11 @@
 
 * [tcomb-form-native - Forms library for react-native](https://github.com/gcanti/tcomb-form-native)
 
-[![NPM](https://nodei.co/npm/tcomb-form-native.png?downloads=true&stars=true)](https://nodei.co/npm/tcomb-form-native/)
+[![NPM](http://badge.fury.io/js/tcomb-form-native.svg)](http://badge.fury.io/js/tcomb-form-native)
+[![NPM](https://img.shields.io/npm/dm/tcomb-form.svg?style=flat-square)](https://github.com/gcanti/tcomb-form-native)
+[![github](https://img.shields.io/github/issues/gcanti/tcomb-form-native.svg?style=flat-square)](https://github.com/gcanti/tcomb-form-native)
+[![github](https://img.shields.io/github/stars/gcanti/tcomb-form-native.svg?style=flat-square)](https://github.com/gcanti/tcomb-form-native)
+[![github](https://img.shields.io/github/forks/gcanti/tcomb-form-native.svg?style=flat-square)](https://github.com/gcanti/tcomb-form-native)
 
 * [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
 
