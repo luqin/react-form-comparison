@@ -8,7 +8,7 @@
 * [tcomb-form - UI library for developing forms writing less code](https://github.com/gcanti/tcomb-form)
 
 [![NPM](https://nodei.co/npm/tcomb-form.png?downloads=true&stars=true)](https://nodei.co/npm/tcomb-form/)
-
+[![npm](https://img.shields.io/npm/dm/tcomb-form.svg?style=flat-square)](https://github.com/gcanti/tcomb-form)
 [![github](https://img.shields.io/github/issues/gcanti/tcomb-form.svg?style=flat-square)](https://github.com/gcanti/tcomb-form)
 [![github](https://img.shields.io/github/stars/gcanti/tcomb-form.svg?style=flat-square)](https://github.com/gcanti/tcomb-form)
 [![github](https://img.shields.io/github/forks/gcanti/tcomb-form.svg?style=flat-square)](https://github.com/gcanti/tcomb-form)
