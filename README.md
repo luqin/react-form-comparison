@@ -9,8 +9,8 @@
 
 [![NPM](https://nodei.co/npm/tcomb-form.png?downloads=true&stars=true)](https://nodei.co/npm/tcomb-form/)
 
-[![star this repo](http://githubbadges.com/star.svg?user=gcanti&repo=tcomb-form&style=flat&color=fff&background=007ec6)](https://github.com/seleniumhq/selenium)
-[![fork this repo](http://githubbadges.com/fork.svg?user=gcanti&repo=tcomb-form&style=flat&color=fff&background=007ec6)](https://github.com/seleniumhq/selenium/fork)
+[![star this repo](http://githubbadges.com/star.svg?user=gcanti&repo=tcomb-form&style=flat&color=fff&background=007ec6)](https://github.com/gcanti/tcomb-form)
+[![fork this repo](http://githubbadges.com/fork.svg?user=gcanti&repo=tcomb-form&style=flat&color=fff&background=007ec6)](https://github.com/gcanti/tcomb-form/fork)
 
 * [tcomb-form-native - Forms library for react-native](https://github.com/gcanti/tcomb-form-native)
 
