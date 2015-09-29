@@ -23,7 +23,6 @@
 
 * [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
 
-[![NPM](https://nodei.co/npm/react-forms.png?downloads=true&stars=true)](https://nodei.co/npm/react-forms/)
 [![NPM](http://badge.fury.io/js/react-forms.svg)](http://badge.fury.io/js/react-forms)
 [![NPM](https://img.shields.io/npm/dm/tcomb-form.svg?style=flat-square)](https://github.com/prometheusresearch/react-forms)
 [![github](https://img.shields.io/github/issues/prometheusresearch/react-forms.svg?style=flat-square)](https://github.com/prometheusresearch/react-forms/issues)
